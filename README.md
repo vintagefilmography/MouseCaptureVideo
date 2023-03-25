@@ -7,15 +7,16 @@ Go to
 ...\CapSample_mouse_release\CapSample\bin  
 Get your system ready including the connections to the capture card.  
 Double click on CapSample.exe  
-![image](https://user-images.githubusercontent.com/48537944/224493064-bf0bedc4-3186-4f8a-8d46-d36c8eb781b7.png)  
+ ![image1](https://user-images.githubusercontent.com/48537944/227679880-27d03d36-59ba-405b-8c53-99144cc9bf3c.png)
+
   
 Select Deckling Video Capture  
 Set the following settings  
-![image](https://user-images.githubusercontent.com/48537944/224493112-7ed08a21-5b95-4705-b2df-bf9bf1e8b99f.png)  
-
-Set FPS around 10. 
+![image2](https://user-images.githubusercontent.com/48537944/227679928-3e0c1b34-5cd5-4c31-8293-b10e7d557af1.png)
+  
 You should get the capture window.
-![image](https://user-images.githubusercontent.com/48537944/224493177-7c36fc4c-2851-43ac-a355-8a1da98c32de.png)  
+![image3](https://user-images.githubusercontent.com/48537944/227680025-126055a4-788a-47b6-abe1-70534802acf1.png)
+
 
 Do not run Start  
 Click the Frame button manually at different speeds to see if the system can keep up with the images  
