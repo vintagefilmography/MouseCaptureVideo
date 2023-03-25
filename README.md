@@ -10,7 +10,7 @@ Double click on CapSample.exe
  ![image1](https://user-images.githubusercontent.com/48537944/227679880-27d03d36-59ba-405b-8c53-99144cc9bf3c.png)  
 
   
-Select Deckling Video Capture  
+Select USB    
 Set the following settings  
 ![image2](https://user-images.githubusercontent.com/48537944/227679928-3e0c1b34-5cd5-4c31-8293-b10e7d557af1.png)  
   
