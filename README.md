@@ -1,10 +1,10 @@
-# MouseCaptureFrames
+# MouseCaptureVideo
 
 Instructions:  
 Download the repo to your local drive.  
 Unzip it.  
 Go to
-...\CapSample_mouse_release\CapSample\bin  
+...\CapSample_mpeg\CapSample\bin  
 Get your system ready including the connections to the capture card.  
 Double click on CapSample.exe  
  ![image1](https://user-images.githubusercontent.com/48537944/227679880-27d03d36-59ba-405b-8c53-99144cc9bf3c.png)  
